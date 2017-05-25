@@ -1,0 +1,8 @@
+Verified+1: jenkins-ci <jenkins-opnfv-ci@opnfv.org>
+Code-Review+2: julien zhang <zhang.jun3g@zte.com.cn>
+Code-Review+2: Ulrich Kleber <ulrich.kleber@huawei.com>
+Submitted-by: julien zhang <zhang.jun3g@zte.com.cn>
+Submitted-at: Thu, 25 May 2017 05:34:41 +0000
+Reviewed-on: https://gerrit.opnfv.org/gerrit/33935
+Project: infra
+Branch: refs/heads/master
