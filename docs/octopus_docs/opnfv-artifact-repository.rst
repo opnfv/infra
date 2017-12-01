@@ -145,7 +145,17 @@ Please follow steps listed below.
 
 1. Install gsutil
 
-    Please follow steps listed on `this link <https://cloud.google.com/storage/docs/gsutil_install>`_ to install gsutil to your computer.
+   ``sudo pip install gsutil``
+
+   in case of troubles:
+
+   ``sudo pip uninstall gsutil``
+   ``sudo pip install gsutil``
+
+   Or:
+   Contact aricg on irc in #opnfv-octopus and pass him the accounts.google.com/o/oauth2/auth line, and he will send you the auth response in a private message.
+
+
 
 2. Configure gsutil
 
